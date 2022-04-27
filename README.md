@@ -12,6 +12,13 @@
   <img alt="Symbol-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
   <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img alt="Symbol-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" height="34"/>
+  
+ ## 
+  
+  <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="34" height="34"/>
+  <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
+  
+  
 </div>
 
 ##
