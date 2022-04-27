@@ -1,4 +1,4 @@
-Olá! Sou Yuri, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
+### Olá! Sou Yuri, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
 
 <div align=center>
 <a href="https://github.com/YuriCF1">
