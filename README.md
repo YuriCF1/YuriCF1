@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @YuriCF1
-- 👀 I’m interested in front-end and game developing 
-- 🌱 I’m currently learning front-end on HTML6 and CSS3 
-- 💞️ I’m looking to collaborate on anything that can teach me something
-- 📫 How to reach me: www.linkedin.com/in/yf19
+Olá! Sou Yuri, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
 
 <div align=center>
 <a href="https://github.com/YuriCF1">
