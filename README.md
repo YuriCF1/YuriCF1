@@ -1,4 +1,4 @@
-### Olá! Sou Yuri, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
+### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
 
 ##
 
