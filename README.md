@@ -16,15 +16,15 @@
   
  ## 
   
-  <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="34" height="34"/>
-  <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
-  <img alt="Symbol-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34/>
+ <img align="center" alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="34" height="34"/>
+  <img align="center" alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
+  <img align="center" alt="Symbol-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34" />
           
-  
 </div>
+                                                                                                                               
 ##
-
-<div align=center >                                                                                                                              
+  
+<div align=center >
   <a href = "mailto: yuricruzf@gmail.com"> <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
   <a href = "https://www.linkedin.com/in/yf19/"> <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"> </a>
   
@@ -34,3 +34,4 @@
 YuriCF1/YuriCF1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
