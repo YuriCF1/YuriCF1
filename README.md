@@ -6,9 +6,7 @@
 <a href="https://github.com/YuriCF1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriCF1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-  
-  <div align="center">
+
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=YuriCF1&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   
 </div>
