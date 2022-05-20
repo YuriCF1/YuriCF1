@@ -1,9 +1,8 @@
-
 ### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
 
 ##
 
-<div align=center display="line-block">
+<div align=center style="display: inline_block">
 <a href="https://github.com/YuriCF1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriCF1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
