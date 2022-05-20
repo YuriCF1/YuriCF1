@@ -2,7 +2,6 @@
 
 ##
 
-<div style="display: inline-block"  align="center"><br>
 <div align="center">
 <a href="https://github.com/YuriCF1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriCF1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -30,7 +29,6 @@
   <a href = "https://www.linkedin.com/in/yf19/"> <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"> </a>
   
 </div>
-  </div>
 
 <!---
 YuriCF1/YuriCF1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
