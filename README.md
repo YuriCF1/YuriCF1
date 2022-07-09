@@ -1,4 +1,4 @@
-### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Um prazer te receber aqui =)
+### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico com o Photoshop, Premiere e Figma. Minha meta é fazer código todo dia, depois me me dedicar ao JavaScript, estou atualmente focado em Typescript para começar com React. Um prazer te receber aqui =)
 
 ##
 
