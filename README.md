@@ -5,7 +5,7 @@ Minha meta é fazer código todo dia. <br>
 ###
 Atualmente estou focado em: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="35" height="35"/>
 ###
-Um prazer te receber por aqui =)
+Um prazer te receber por aqui :)
           
 
 ##
