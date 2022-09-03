@@ -8,7 +8,6 @@ Atualmente estou focado em: <img src="https://cdn.jsdelivr.net/gh/devicons/devic
 Um prazer te receber por aqui =)
           
 
-
 ##
 
 <div align="center">
