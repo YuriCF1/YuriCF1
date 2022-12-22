@@ -29,8 +29,10 @@ Um prazer te receber por aqui =)
  ## 
   
  <img align="center" alt="Symbol-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="34" height="34"/>
-  <img align="center" alt="Symbol-Premiere" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
-  <img align="center" alt="Symbol-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34" />
+ <img align="center" alt="Symbol-Premiere" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
+ <img align="center" alt="Symbol-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="34" height="34" />
+          
           
 </div>
                                                                                                                                
