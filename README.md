@@ -3,7 +3,9 @@
 ###
 Minha meta é fazer código todo dia. <br>
 ###
-Atualmente estou focado em: <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> <img alt="react symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+Atualmente estou focado em: <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> <img alt="react symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+          
           
 ###
 Um prazer te receber por aqui =)
