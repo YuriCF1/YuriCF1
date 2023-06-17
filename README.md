@@ -26,7 +26,7 @@ Um prazer te receber por aqui =)
   
 ## 
   <div align="center">
-            Languages and frameworks that i already used
+            Languages and frameworks that i already used:
 
 ###    
 <div align=center>
