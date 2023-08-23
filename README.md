@@ -51,7 +51,7 @@ Um prazer te receber por aqui =)
           
   
  ## 
-  Desing softwares that i'm familiar with
+  Desing softwares that i'm familiar with:
   
  <img align="center" alt="Symbol-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="34" height="34"/>
  <img align="center" alt="Symbol-Premiere" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
