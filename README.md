@@ -56,8 +56,7 @@ Um prazer te receber por aqui =)
  <img align="center" alt="Symbol-Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="34" height="34"/>
  <img align="center" alt="Symbol-Premiere" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="34" height="34"/>
  <img align="center" alt="Symbol-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="34" height="34" />
- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" />        
-          
+ <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" />              
 </div>
                                                                                                                                
 ##
@@ -65,7 +64,6 @@ Um prazer te receber por aqui =)
 <div align=center >
   <a href = "mailto: yuricruzf@gmail.com"> <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
   <a href = "https://www.linkedin.com/in/yf19/"> <img src= https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"> </a>
-  
 </div>
 
 <!---
