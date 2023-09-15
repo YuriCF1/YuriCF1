@@ -1,12 +1,20 @@
-### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere e Figma. <br>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França </a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere e Figma. <br>
+          
 ###
 Minha meta é fazer aprender algo novo de programação todo dia. <br>
 ###
-Atualmente estou estudando projetos com: <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> <img alt="react symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
+Atualmente estou estudando projetos com: 
+<img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> 
+<img alt="react symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+<i class="devicon-nextjs-original-wordmark"></i>
+
           
-           
           
+              
 ###
 Um prazer te receber por aqui =)
           
@@ -41,6 +49,7 @@ Um prazer te receber por aqui =)
   <img alt="firebase symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
   <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
           
 
           
