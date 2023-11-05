@@ -1,13 +1,14 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França</a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere, Figma e blender. <br>
-          
+### Para acessar meu portfolio, clique <a href="https://portfolio-dev-kappa-liart.vercel.app/">aqui</a>.       
 ###
 Minha meta é fazer aprender algo novo de programação todo dia. <br>
 ###
 Atualmente estou estudando projetos com: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-          
+
+
 
           
           
