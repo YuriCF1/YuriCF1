@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França</a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere, Figma e blender. <br>
-### Para acessar meu portfolio, clique <a href="https://portfolio-dev-kappa-liart.vercel.app/">aqui</a>.       
+## Olá! Me chamo <a href="https://www.linkedin.com/in/yuricf/" >Yuri Cruz França</a>, e atuo no desenvolvimento Frontend, tendo também experiencia com design gráfico usando o Photoshop, Premiere, Figma e blender. <br>
+### Meus *projetos ordenados por relevância*, clique <a href="https://portfolio-dev-kappa-liart.vercel.app/">aqui</a>.       
 ###
 Minha meta é fazer e aprender algo novo de programação todo dia. <br>
 ###
