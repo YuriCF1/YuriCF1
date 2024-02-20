@@ -28,6 +28,7 @@ Um prazer te receber por aqui =)
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=YuriCF1&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 -->
+          <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img height='165em' src='https://github-readme-streak-stats.herokuapp.com?user=YuriCF1&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   
 ## 
