@@ -7,6 +7,7 @@ Minha meta é fazer e aprender algo novo em programação todo dia. <br>
 ###
 Atualmente estou estudando projetos com: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45" />
 
           
 
