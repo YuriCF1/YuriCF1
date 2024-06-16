@@ -10,7 +10,7 @@ Atualmente estou estudando projetos com:
 -->
 
 ## Hello there! My name is<a href="https://www.linkedin.com/in/yuricf/" > Yuri Cruz França</a>, and I'm a Fullstack Developer, I also have experience with design using Photoshop, Figma, Premiere, Filmora and Blender. <br>
-## My *PORTFOLIO with projects ordered by relevance*, click <a href="https://portfolio-dev-kappa-liart.vercel.app/">aqui</a>.       
+## My *PORTFOLIO with projects ordered by relevance*, click <a href="https://portfolio-dev-kappa-liart.vercel.app/">here</a>.       
 ###
 My goal is to learn and code something new about programming everyday! <br>
 ###
