@@ -9,7 +9,7 @@ Atualmente estou estudando projetos com:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
 -->
 
-## Hello there! My name is<a href="https://www.linkedin.com/in/yuricf/" > Yuri Cruz França</a>, and I'm a Fullstack Developer, I also have experience with design using Photoshop, Figma, Premiere, Filmora and Blender. <br>
+## Hello there! My name is<a href="https://www.linkedin.com/in/yuricf/" > Yuri Cruz França</a>, and I'm a Fontend Developer, with experience in Backend too, I also have familiarity with design using Photoshop, Figma, Premiere, Filmora and Blender. <br>
 ## My *PORTFOLIO with projects ordered by relevance*, click <a href="https://portfolio-dev-kappa-liart.vercel.app/">here</a>.       
 ###
 My goal is to learn and code something new about programming everyday! <br>
