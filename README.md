@@ -115,29 +115,37 @@ Feel free to contact me anytime!
         <div>Axios</div>
       </td>
       <td align="center">
-        <img alt="wordpress symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
-        <div>WordPress</div>
-      </td>
-      <td align="center">
-        <img alt="firebase symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
-        <div>Firebase</div>
-      </td>
-      <td align="center">
-        <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> 
-        <div>MongoDB</div>
-      </td>
-      <td align="center">
-        <img alt="postman symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> 
-        <div>Postman</div>
-      </td>
-      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
         <div>Node.js</div>
       </td>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/>
         <div>Express</div>
-      </td>          
+      </td>
+      <td align="center">
+        <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+        <div>MySQL</div>
+      </td>
+      <td align="center">
+        <img alt="mongo DB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/> 
+        <div>MongoDB</div>
+      </td>
+      <td align="center">
+        <img alt="firebase symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>
+        <div>Firebase</div>	
+      </td>
+      <td align="center">
+        <img alt="postman symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> 
+        <div>Postman</div>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" />
+        <div>Docker</div>
+      </td>
+      <td align="center">
+        <img alt="wordpress symbol" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>
+        <div>WordPress</div>
+      </td>         
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
         <div>PostgreSQL</div>
