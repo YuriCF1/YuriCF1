@@ -15,10 +15,9 @@ Atualmente estou estudando projetos com:
 My goal is to learn and code something new about programming everyday! <br>
 ###
 Nowdays, I'm developing projects focused on: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
-
-          
+<div style="margin-top:2rem;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+</div>
 
 
 
@@ -39,8 +38,8 @@ Feel free to contact me anytime!
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=YuriCF1&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 -->
-          <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height='165em' src='https://github-readme-streak-stats.herokuapp.com?user=YuriCF1&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+          <!-- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCF1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height='165em' src='https://github-readme-streak-stats.herokuapp.com?user=YuriCF1&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' /> -->
   
 ## 
   <div align="center">
